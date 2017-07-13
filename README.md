@@ -15,6 +15,9 @@ While the problem could be resolved faster and easier with a pure Finite-stame
 machines implementation, the idea is to provide an example of simple
 implementation of concurrent threats.
 
+I am using basic Threading in Python to make it backward compatible and to show
+use of concurrent programming primitives.
+
 ### Matrix class
 
 Matrix is the governor class, it is required to have one because of the
