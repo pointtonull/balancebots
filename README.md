@@ -21,6 +21,13 @@ Matrix is the governor class, it is required to have one because of the
 low-level approach. To keep the flock in on formation and to keep the target
 centralized.
 
+### Makefile
+
+Python is so simple to setup/use it doesn't require a Makefile most of the
+time. But in my experience this recude the surface of error and enables new
+developers to get to speed faster.
+
+
 ### Why are you not using concurrent.Futures?
 
 Well. Because they are way too cool. So cool using them doesn't proove you
