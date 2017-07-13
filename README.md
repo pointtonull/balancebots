@@ -81,7 +81,7 @@ make run
 Once you have customized any changes you need in `config.json.template`, you can start
 CODEX:
 
-### Running
+## Running
 
 To run you can execute simply execute `make run`:
 
