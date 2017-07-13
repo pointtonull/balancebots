@@ -8,11 +8,31 @@ concurrent aproach. It includes good practices structure for:
     - local dependences
     - sub-modules
 
+
 ## Overview
 
-Mean the problem could be resolved faster and easier with a pure Finite-stame
+While the problem could be resolved faster and easier with a pure Finite-stame
 machines implementation, the idea is to provide an example of simple
 implementation of concurrent threats.
+
+### Matrix class
+
+Matrix is the governor class, it is required to have one because of the
+low-level approach. To keep the flock in on formation and to keep the target
+centralized.
+
+### Why are you not using concurrent.Futures?
+
+Well. Because they are way too cool. So cool using them doesn't proove you
+understand concurrency!
+
+I am serious, in this implementation I am using a lower-level aproach to
+concurrency in which I use Locks, Ewents, Queues and Threats in their purest
+state.
+
+How simple would it be to use concurrent.Futures?, instead of reduce you can
+use any, returning the first camparation that matches the target.
+
 
 ## Dependencies
 
