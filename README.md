@@ -20,14 +20,24 @@ use of concurrent programming primitives.
 
 ### Matrix class
 
-Matrix is the governor class, it is required to have one because of the
-low-level approach. To keep the flock in on formation and to keep the target
-centralized.
+[Matrix][matrix] is the governor class, it here where the sucess criteria is
+defined and is this the class that can spawn and kill bots in the flock.
+
+### Bot  class
+
+[Bot][bot] this class implements the minimun needed logic to keep the bot from
+crashing. It stores reference to the creating Matrix instance.o
+
+The special method [run][bot_run] defines the main loop in wich the bot is
+going to expend it's life. Syncing with the flock depends on a blocking
+watching over it's [basket][bot_watch_basket] and, as special case for when the
+bot is ready for action but is still waiting to receive orders, it watches
+[setup flag][bot_watch_setup].
 
 ### Makefile
 
 Python is so simple to setup/use it doesn't require a Makefile most of the
-time. But in my experience this recude the surface of error and enables new
+time. But in my experience this reduces the surface of error and enables new
 developers to get to speed faster.
 
 
@@ -36,18 +46,22 @@ developers to get to speed faster.
 Well. Because they are way too cool. So cool using them doesn't proove you
 understand concurrency!
 
-I am serious, in this implementation I am using a lower-level aproach to
-concurrency in which I use Locks, Ewents, Queues and Threats in their purest
-state.
+I am serious, in this implementation I am using a low-level approach to
+concurrency in which I use Locks, Events, Queues and Threads "by-hand".
 
-How simple would it be to use concurrent.Futures?, instead of reduce you can
-use any, returning the first camparation that matches the target.
+How simple would it be to use concurrent.Futures?, it would be just maping the
+instructions to a ThreadPool and, instead of `reduce`, using `any` to close the
+pool as soon as the first bot finds the target.
+
+- Would it be cheating? *NO*
+- Would it be challenging? *NO*
 
 
 ## Dependencies
 
 - It should run with Python2.+ and Python3+ (use Python3, please)
-- It doesn't have external dependences
+- It doesn't have external dependences (they would be in requirement.txt if
+  any)
 
 ## How to build/run
 
@@ -129,6 +143,8 @@ bot 98 is shuting down
 The result is bot 141
 ```
 
+[Complete example output][example_output].
+
 ### Debuging
 
 To run a Interactive shell in the enviroment of the program you can run:
@@ -164,5 +180,11 @@ make PYTHON_VERSION=python3.6 run
 
 
 [BalanceBots]: http://adventofcode.com/2016/day/10
+[example_output]: https://raw.githubusercontent.com/pointtonull/balancebots/master/output.txt
+[matrix]: https://github.com/pointtonull/balancebots/blob/master/src/lib/matrix.py#L62-L103
+[bot]: https://github.com/pointtonull/balancebots/blob/master/src/lib/matrix.py#L17-L59
+[bot_run]: https://github.com/pointtonull/balancebots/blob/master/src/lib/matrix.py#L29-L50
+[bot_watch_basket]: https://github.com/pointtonull/balancebots/blob/master/src/lib/matrix.py#L32
+[bot_watch_setup]: https://github.com/pointtonull/balancebots/blob/master/src/lib/matrix.py#L38
 
-<!--- vim: sw=4 et ts=4 -->
+<!-- vim: set sw=4 et ts=4 :-->
