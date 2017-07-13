@@ -3,10 +3,10 @@
 This is a toy implementation to [Balance Bots Problem][BalanceBots] with a
 concurrent aproach. It includes good practices structure for:
 
-    - predictable development enviroment setup with GNU Make
-    - testing and coverage enabled
-    - local dependences
-    - sub-modules
+- predictable development enviroment setup with GNU Make
+- testing and coverage enabled
+- local dependences
+- sub-modules
 
 
 ## Overview
