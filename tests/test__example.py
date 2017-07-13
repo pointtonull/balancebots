@@ -3,6 +3,7 @@ import unittest
 from lib.matrix import Matrix
 import time
 
+
 INSTRUCTIONS = [
         "value 5 goes to bot 2",
         "bot 2 gives low to bot 1 and high to bot 0",
@@ -12,8 +13,9 @@ INSTRUCTIONS = [
         "value 2 goes to bot 2",
     ]
 
-TARGET = set(["5", "2"])
+TARGET = set([5, 2])
 RESULT = "bot 2"
+
 
 class TestExample(unittest.TestCase):
     """

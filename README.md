@@ -126,7 +126,7 @@ bot 136 is shuting down
 bot 192 is shuting down
 bot 98 is shuting down
 ===
-The result is bot 38
+The result is bot 141
 ```
 
 ### Debuging

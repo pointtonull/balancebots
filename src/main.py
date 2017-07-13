@@ -4,7 +4,7 @@ from lib.matrix import Matrix
 import time
 
 def run(instructions):
-    matrix = Matrix(set(["61", "17"]))
+    matrix = Matrix(set([61, 17]))
     for instruction in instructions:
         print("Intruction: %s" % instruction.strip())
         matrix.execute_instruction(instruction)

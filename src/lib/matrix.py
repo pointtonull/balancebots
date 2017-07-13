@@ -89,6 +89,7 @@ class Matrix:
 
     def assigns(self, value, assignee):
         bot = self.get_bot(assignee)
+        value = int(value)
         bot.assign(value)
 
     def execute_instruction(self, instruction):
