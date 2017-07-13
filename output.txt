@@ -1,0 +1,768 @@
+Pulling in dependencies...
+Intruction: bot 75 gives low to bot 145 and high to bot 95
+  > bot 75 had been created
+Intruction: bot 116 gives low to bot 157 and high to bot 197
+  > bot 116 had been created
+Intruction: bot 185 gives low to bot 57 and high to bot 139
+  > bot 185 had been created
+Intruction: bot 202 gives low to bot 105 and high to bot 209
+  > bot 202 had been created
+Intruction: bot 179 gives low to output 20 and high to bot 133
+  > bot 179 had been created
+Intruction: bot 114 gives low to bot 140 and high to bot 51
+  > bot 114 had been created
+Intruction: bot 166 gives low to bot 95 and high to bot 87
+  > bot 166 had been created
+Intruction: bot 57 gives low to bot 118 and high to bot 32
+  > bot 57 had been created
+Intruction: bot 33 gives low to bot 141 and high to bot 105
+  > bot 33 had been created
+Intruction: bot 68 gives low to bot 86 and high to bot 25
+  > bot 68 had been created
+Intruction: bot 139 gives low to bot 32 and high to bot 28
+  > bot 139 had been created
+Intruction: bot 18 gives low to bot 186 and high to bot 136
+  > bot 18 had been created
+Intruction: bot 99 gives low to bot 41 and high to bot 83
+  > bot 99 had been created
+Intruction: bot 155 gives low to bot 43 and high to bot 78
+  > bot 155 had been created
+Intruction: bot 157 gives low to bot 55 and high to bot 185
+  > bot 157 had been created
+Intruction: bot 204 gives low to bot 83 and high to bot 54
+  > bot 204 had been created
+Intruction: bot 22 gives low to bot 187 and high to bot 148
+  > bot 22 had been created
+Intruction: bot 48 gives low to bot 151 and high to bot 160
+  > bot 48 had been created
+Intruction: value 7 goes to bot 77
+  > bot 77 had been created
+Intruction: bot 154 gives low to bot 138 and high to bot 4
+  > bot 154 had been created
+Intruction: bot 206 gives low to output 15 and high to bot 203
+  > bot 206 had been created
+Intruction: value 11 goes to bot 113
+  > bot 113 had been created
+Intruction: bot 47 gives low to bot 209 and high to bot 86
+  > bot 47 had been created
+Intruction: bot 187 gives low to bot 54 and high to bot 37
+  > bot 187 had been created
+Intruction: bot 103 gives low to output 13 and high to bot 125
+  > bot 103 had been created
+Intruction: bot 92 gives low to bot 150 and high to bot 131
+  > bot 92 had been created
+Intruction: bot 102 gives low to bot 56 and high to bot 164
+  > bot 102 had been created
+Intruction: bot 37 gives low to bot 44 and high to bot 11
+  > bot 37 had been created
+Intruction: bot 80 gives low to bot 17 and high to bot 84
+  > bot 80 had been created
+Intruction: bot 52 gives low to bot 143 and high to bot 38
+  > bot 52 had been created
+Intruction: bot 168 gives low to bot 170 and high to bot 2
+  > bot 168 had been created
+Intruction: bot 188 gives low to bot 161 and high to bot 180
+  > bot 188 had been created
+Intruction: bot 17 gives low to bot 93 and high to bot 109
+  > bot 17 had been created
+Intruction: bot 117 gives low to bot 81 and high to bot 168
+  > bot 117 had been created
+Intruction: bot 25 gives low to bot 59 and high to bot 71
+  > bot 25 had been created
+Intruction: bot 173 gives low to bot 192 and high to bot 126
+  > bot 173 had been created
+Intruction: bot 118 gives low to output 7 and high to bot 96
+  > bot 118 had been created
+Intruction: bot 1 gives low to bot 155 and high to bot 100
+  > bot 1 had been created
+Intruction: bot 64 gives low to bot 125 and high to bot 192
+  > bot 64 had been created
+Intruction: bot 5 gives low to bot 197 and high to bot 8
+  > bot 5 had been created
+Intruction: bot 136 gives low to bot 202 and high to bot 47
+  > bot 136 had been created
+Intruction: bot 59 gives low to bot 7 and high to bot 130
+  > bot 59 had been created
+Intruction: bot 197 gives low to bot 185 and high to bot 0
+  > bot 197 had been created
+Intruction: bot 94 gives low to bot 16 and high to bot 39
+  > bot 94 had been created
+Intruction: bot 138 gives low to bot 87 and high to bot 65
+  > bot 138 had been created
+Intruction: bot 20 gives low to bot 128 and high to bot 208
+  > bot 20 had been created
+Intruction: value 59 goes to bot 162
+  > bot 162 had been created
+Intruction: bot 201 gives low to bot 119 and high to bot 177
+  > bot 201 had been created
+Intruction: bot 32 gives low to bot 96 and high to bot 90
+  > bot 32 had been created
+Intruction: bot 174 gives low to bot 36 and high to bot 124
+  > bot 174 had been created
+Intruction: bot 60 gives low to bot 158 and high to bot 34
+  > bot 60 had been created
+Intruction: value 53 goes to bot 140
+  > bot 140 had been created
+Intruction: bot 141 gives low to bot 152 and high to bot 175
+  > bot 141 had been created
+Intruction: bot 145 gives low to bot 183 and high to bot 146
+  > bot 145 had been created
+Intruction: bot 190 gives low to output 1 and high to bot 36
+  > bot 190 had been created
+Intruction: bot 113 gives low to bot 194 and high to bot 157
+Intruction: value 41 goes to bot 143
+  > bot 143 had been created
+Intruction: bot 61 gives low to bot 171 and high to bot 144
+  > bot 61 had been created
+Intruction: bot 8 gives low to bot 0 and high to bot 152
+  > bot 8 had been created
+Intruction: bot 170 gives low to bot 193 and high to bot 91
+  > bot 170 had been created
+Intruction: bot 65 gives low to bot 147 and high to bot 93
+  > bot 65 had been created
+Intruction: bot 6 gives low to bot 205 and high to bot 182
+  > bot 6 had been created
+Intruction: bot 45 gives low to bot 195 and high to bot 13
+  > bot 45 had been created
+Intruction: bot 98 gives low to bot 111 and high to bot 46
+  > bot 98 had been created
+Intruction: bot 172 gives low to bot 154 and high to bot 7
+  > bot 172 had been created
+Intruction: bot 119 gives low to bot 131 and high to bot 169
+  > bot 119 had been created
+Intruction: bot 199 gives low to bot 117 and high to bot 156
+  > bot 199 had been created
+Intruction: bot 128 gives low to bot 179 and high to bot 208
+  > bot 128 had been created
+Intruction: bot 84 gives low to bot 109 and high to bot 21
+  > bot 84 had been created
+Intruction: bot 86 gives low to bot 172 and high to bot 59
+  > bot 86 had been created
+Intruction: value 43 goes to bot 104
+  > bot 104 had been created
+Intruction: bot 165 gives low to bot 27 and high to bot 72
+  > bot 165 had been created
+Intruction: bot 62 gives low to bot 58 and high to bot 120
+  > bot 62 had been created
+Intruction: bot 109 gives low to bot 121 and high to bot 102
+  > bot 109 had been created
+Intruction: bot 115 gives low to bot 24 and high to bot 151
+  > bot 115 had been created
+Intruction: bot 19 gives low to bot 52 and high to bot 76
+  > bot 19 had been created
+Intruction: bot 125 gives low to output 2 and high to bot 107
+  > bot 125 had been created
+Intruction: bot 76 gives low to bot 38 and high to bot 155
+  > bot 76 had been created
+Intruction: value 61 goes to bot 52
+Intruction: bot 14 gives low to bot 153 and high to bot 53
+  > bot 14 had been created
+Intruction: bot 180 gives low to bot 106 and high to bot 15
+  > bot 180 had been created
+Intruction: bot 30 gives low to bot 28 and high to bot 75
+  > bot 30 had been created
+Intruction: bot 121 gives low to bot 60 and high to bot 56
+  > bot 121 had been created
+Intruction: bot 200 gives low to output 16 and high to bot 206
+  > bot 200 had been created
+Intruction: bot 163 gives low to bot 71 and high to bot 14
+  > bot 163 had been created
+Intruction: bot 146 gives low to bot 174 and high to bot 16
+  > bot 146 had been created
+Intruction: bot 12 gives low to bot 11 and high to bot 10
+  > bot 12 had been created
+Intruction: bot 127 gives low to bot 126 and high to bot 129
+  > bot 127 had been created
+Intruction: bot 101 gives low to bot 64 and high to bot 173
+  > bot 101 had been created
+Intruction: bot 7 gives low to bot 4 and high to bot 80
+  > bot 7 had been created
+Intruction: bot 189 gives low to bot 51 and high to bot 62
+  > bot 189 had been created
+Intruction: bot 85 gives low to bot 98 and high to bot 108
+  > bot 85 had been created
+Intruction: bot 169 gives low to bot 204 and high to bot 187
+  > bot 169 had been created
+Intruction: bot 160 gives low to bot 123 and high to bot 112
+  > bot 160 had been created
+Intruction: bot 40 gives low to bot 182 and high to bot 70
+  > bot 40 had been created
+Intruction: bot 158 gives low to bot 101 and high to bot 178
+  > bot 158 had been created
+Intruction: bot 175 gives low to bot 159 and high to bot 67
+  > bot 175 had been created
+Intruction: bot 183 gives low to bot 190 and high to bot 174
+  > bot 183 had been created
+Intruction: bot 95 gives low to bot 146 and high to bot 94
+  > bot 95 had been created
+Intruction: bot 110 gives low to bot 115 and high to bot 48
+  > bot 110 had been created
+Intruction: bot 55 gives low to bot 49 and high to bot 57
+  > bot 55 had been created
+Intruction: bot 159 gives low to bot 75 and high to bot 166
+  > bot 159 had been created
+Intruction: bot 208 gives low to bot 133 and high to bot 196
+  > bot 208 had been created
+Intruction: bot 131 gives low to bot 99 and high to bot 204
+  > bot 131 had been created
+Intruction: value 2 goes to bot 19
+Intruction: value 47 goes to bot 24
+  > bot 24 had been created
+Intruction: value 31 goes to bot 194
+  > bot 194 had been created
+Intruction: bot 70 gives low to bot 199 and high to bot 156
+  > bot 70 had been created
+Intruction: bot 120 gives low to bot 112 and high to bot 198
+  > bot 120 had been created
+Intruction: bot 42 gives low to bot 22 and high to bot 191
+  > bot 42 had been created
+Intruction: bot 23 gives low to bot 177 and high to bot 42
+  > bot 23 had been created
+Intruction: bot 144 gives low to bot 23 and high to bot 79
+  > bot 144 had been created
+Intruction: bot 107 gives low to output 9 and high to bot 161
+  > bot 107 had been created
+Intruction: bot 81 gives low to bot 15 and high to bot 170
+  > bot 81 had been created
+Intruction: bot 143 gives low to bot 176 and high to bot 88
+Intruction: bot 186 gives low to bot 33 and high to bot 202
+  > bot 186 had been created
+Intruction: bot 205 gives low to bot 127 and high to bot 50
+  > bot 205 had been created
+Intruction: bot 27 gives low to bot 3 and high to bot 97
+  > bot 27 had been created
+Intruction: bot 87 gives low to bot 94 and high to bot 147
+  > bot 87 had been created
+Intruction: bot 41 gives low to bot 100 and high to bot 18
+  > bot 41 had been created
+Intruction: bot 50 gives low to bot 129 and high to bot 199
+  > bot 50 had been created
+Intruction: bot 66 gives low to output 4 and high to bot 190
+  > bot 66 had been created
+Intruction: bot 171 gives low to bot 201 and high to bot 23
+  > bot 171 had been created
+Intruction: value 37 goes to bot 27
+Intruction: bot 10 gives low to bot 142 and high to bot 163
+  > bot 10 had been created
+Intruction: bot 148 gives low to bot 37 and high to bot 12
+  > bot 148 had been created
+Intruction: bot 195 gives low to bot 165 and high to bot 31
+  > bot 195 had been created
+Intruction: bot 36 gives low to output 6 and high to bot 26
+  > bot 36 had been created
+Intruction: bot 162 gives low to bot 114 and high to bot 189
+Intruction: bot 104 gives low to bot 162 and high to bot 189
+Intruction: bot 82 gives low to bot 67 and high to bot 154
+  > bot 82 had been created
+Intruction: bot 196 gives low to output 17 and high to output 8
+  > bot 196 had been created
+Intruction: bot 39 gives low to bot 85 and high to bot 89
+  > bot 39 had been created
+Intruction: bot 78 gives low to bot 134 and high to bot 33
+  > bot 78 had been created
+Intruction: bot 167 gives low to bot 203 and high to bot 128
+  > bot 167 had been created
+Intruction: bot 44 gives low to bot 73 and high to bot 63
+  > bot 44 had been created
+Intruction: bot 97 gives low to bot 207 and high to bot 132
+  > bot 97 had been created
+Intruction: bot 13 gives low to bot 31 and high to bot 9
+  > bot 13 had been created
+Intruction: bot 46 gives low to bot 103 and high to bot 64
+  > bot 46 had been created
+Intruction: bot 203 gives low to output 14 and high to bot 179
+  > bot 203 had been created
+Intruction: value 23 goes to bot 195
+Intruction: bot 182 gives low to bot 50 and high to bot 70
+  > bot 182 had been created
+Intruction: bot 112 gives low to bot 61 and high to bot 198
+  > bot 112 had been created
+Intruction: bot 184 gives low to bot 89 and high to bot 60
+  > bot 184 had been created
+Intruction: bot 67 gives low to bot 166 and high to bot 138
+  > bot 67 had been created
+Intruction: bot 88 gives low to bot 116 and high to bot 5
+  > bot 88 had been created
+Intruction: bot 31 gives low to bot 72 and high to bot 92
+  > bot 31 had been created
+Intruction: bot 198 gives low to bot 144 and high to bot 79
+  > bot 198 had been created
+Intruction: bot 83 gives low to bot 18 and high to bot 29
+  > bot 83 had been created
+Intruction: bot 0 gives low to bot 139 and high to bot 30
+  > bot 0 had been created
+Intruction: value 19 goes to bot 115
+Intruction: bot 3 gives low to bot 19 and high to bot 207
+  > bot 3 had been created
+Intruction: value 13 goes to bot 114
+Intruction: bot 89 gives low to bot 108 and high to bot 158
+  > bot 89 had been created
+Intruction: bot 176 gives low to bot 113 and high to bot 116
+  > bot 176 had been created
+Intruction: value 5 goes to bot 3
+Intruction: bot 181 gives low to bot 48 and high to bot 58
+  > bot 181 had been created
+Intruction: bot 26 gives low to output 19 and high to bot 111
+  > bot 26 had been created
+Intruction: value 3 goes to bot 45
+Intruction: bot 4 gives low to bot 65 and high to bot 17
+  > bot 4 had been created
+Intruction: bot 11 gives low to bot 63 and high to bot 10
+  > bot 11 had been created
+Intruction: bot 177 gives low to bot 169 and high to bot 22
+  > bot 177 had been created
+Intruction: bot 71 gives low to bot 130 and high to bot 14
+  > bot 71 had been created
+Intruction: bot 108 gives low to bot 46 and high to bot 101
+  > bot 108 had been created
+Intruction: bot 207 gives low to bot 76 and high to bot 1
+  > bot 207 had been created
+Intruction: value 17 goes to bot 104
+Intruction: bot 126 gives low to bot 188 and high to bot 149
+  > bot 126 had been created
+  > bot 104 assigning 17 to bot 162 and 43 to bot 189
+  > bot 162 assigning 17 to bot 114 and 59 to bot 189
+  > bot 189 assigning 43 to bot 51 and 59 to bot 62
+Intruction: bot 135 gives low to bot 164 and high to bot 40
+  > bot 135 had been created
+  > bot 114 assigning 13 to bot 140 and 17 to bot 51
+Intruction: bot 105 gives low to bot 175 and high to bot 82
+  > bot 105 had been created
+Intruction: bot 153 gives low to bot 84 and high to bot 53
+  > bot 153 had been created
+Intruction: bot 35 gives low to bot 122 and high to bot 171
+  > bot 35 had been created
+Intruction: bot 164 gives low to bot 6 and high to bot 40
+  > bot 164 had been created
+Intruction: bot 124 gives low to bot 26 and high to bot 98
+  > bot 124 had been created
+Intruction: bot 69 gives low to bot 13 and high to bot 122
+  > bot 69 had been created
+Intruction: bot 49 gives low to output 0 and high to bot 118
+  > bot 49 had been created
+Intruction: bot 193 gives low to bot 206 and high to bot 167
+  > bot 193 had been created
+Intruction: bot 133 gives low to output 5 and high to bot 196
+  > bot 133 had been created
+Intruction: bot 24 gives low to bot 74 and high to bot 137
+Intruction: bot 111 gives low to output 18 and high to bot 103
+  > bot 111 had been created
+Intruction: bot 192 gives low to bot 107 and high to bot 188
+  > bot 192 had been created
+Intruction: value 29 goes to bot 110
+Intruction: bot 72 gives low to bot 97 and high to bot 150
+  > bot 72 had been created
+Intruction: bot 140 gives low to bot 110 and high to bot 181
+Intruction: bot 191 gives low to bot 148 and high to bot 12
+  > bot 191 had been created
+  > bot 140 assigning 13 to bot 110 and 53 to bot 181
+  > bot 110 assigning 13 to bot 115 and 29 to bot 48
+Intruction: value 67 goes to bot 74
+  > bot 74 had been created
+  > bot 115 assigning 13 to bot 24 and 19 to bot 151
+  > bot 24 assigning 13 to bot 74 and 47 to bot 137
+Intruction: bot 132 gives low to bot 1 and high to bot 41
+  > bot 132 had been created
+Intruction: bot 16 gives low to bot 124 and high to bot 85
+  > bot 16 had been created
+Intruction: bot 156 gives low to bot 168 and high to bot 2
+  > bot 156 had been created
+Intruction: bot 58 gives low to bot 160 and high to bot 120
+  > bot 58 had been created
+Intruction: bot 43 gives low to bot 5 and high to bot 134
+  > bot 43 had been created
+Intruction: bot 77 gives low to output 11 and high to bot 49
+Intruction: bot 21 gives low to bot 102 and high to bot 135
+  > bot 21 had been created
+Intruction: bot 178 gives low to bot 173 and high to bot 127
+  > bot 178 had been created
+Intruction: bot 63 gives low to bot 68 and high to bot 142
+  > bot 63 had been created
+Intruction: bot 194 gives low to bot 77 and high to bot 55
+Intruction: bot 51 gives low to bot 181 and high to bot 62
+  > bot 51 had been created
+Intruction: bot 209 gives low to bot 82 and high to bot 172
+  > bot 209 had been created
+  > bot 51 assigning 17 to bot 181 and 43 to bot 62
+  > bot 181 assigning 17 to bot 48 and 53 to bot 58
+  > bot 62 assigning 43 to bot 58 and 59 to bot 120
+Intruction: bot 38 gives low to bot 88 and high to bot 43
+  > bot 38 had been created
+  > bot 48 assigning 17 to bot 151 and 29 to bot 160
+  > bot 58 assigning 43 to bot 160 and 53 to bot 120
+  > bot 120 assigning 53 to bot 112 and 59 to bot 198
+  > bot 160 assigning 29 to bot 123 and 43 to bot 112
+  > bot 112 assigning 43 to bot 61 and 53 to bot 198
+  > bot 198 assigning 53 to bot 144 and 59 to bot 79
+Intruction: bot 130 gives low to bot 80 and high to bot 153
+  > bot 130 had been created
+Intruction: bot 29 gives low to bot 136 and high to bot 73
+  > bot 29 had been created
+Intruction: bot 56 gives low to bot 34 and high to bot 6
+  > bot 56 had been created
+Intruction: bot 54 gives low to bot 29 and high to bot 44
+  > bot 54 had been created
+Intruction: bot 150 gives low to bot 132 and high to bot 99
+  > bot 150 had been created
+Intruction: bot 106 gives low to output 12 and high to bot 200
+  > bot 106 had been created
+Intruction: bot 79 gives low to bot 42 and high to bot 191
+  > bot 79 had been created
+Intruction: bot 147 gives low to bot 39 and high to bot 184
+  > bot 147 had been created
+Intruction: bot 93 gives low to bot 184 and high to bot 121
+  > bot 93 had been created
+Intruction: bot 90 gives low to bot 66 and high to bot 183
+  > bot 90 had been created
+Intruction: bot 123 gives low to bot 35 and high to bot 61
+  > bot 123 had been created
+Intruction: bot 53 gives low to bot 21 and high to bot 135
+  > bot 53 had been created
+Intruction: bot 137 gives low to bot 69 and high to bot 35
+  > bot 137 had been created
+Intruction: bot 28 gives low to bot 90 and high to bot 145
+  > bot 28 had been created
+Intruction: bot 2 gives low to bot 91 and high to bot 20
+  > bot 2 had been created
+Intruction: bot 91 gives low to bot 167 and high to bot 20
+  > bot 91 had been created
+Intruction: bot 161 gives low to output 3 and high to bot 106
+  > bot 161 had been created
+Intruction: value 71 goes to bot 176
+Intruction: bot 73 gives low to bot 47 and high to bot 68
+  > bot 73 had been created
+Intruction: bot 134 gives low to bot 8 and high to bot 141
+  > bot 134 had been created
+Intruction: bot 9 gives low to bot 92 and high to bot 119
+  > bot 9 had been created
+Intruction: bot 129 gives low to bot 149 and high to bot 117
+  > bot 129 had been created
+Intruction: bot 74 gives low to bot 45 and high to bot 69
+Intruction: bot 34 gives low to bot 178 and high to bot 205
+  > bot 34 had been created
+  > bot 74 assigning 13 to bot 45 and 67 to bot 69
+  > bot 45 assigning 3 to bot 195 and 13 to bot 13
+Intruction: bot 100 gives low to bot 78 and high to bot 186
+  > bot 100 had been created
+  > bot 195 assigning 3 to bot 165 and 23 to bot 31
+Intruction: bot 152 gives low to bot 30 and high to bot 159
+  > bot 152 had been created
+Intruction: bot 149 gives low to bot 180 and high to bot 81
+  > bot 149 had been created
+Intruction: bot 142 gives low to bot 25 and high to bot 163
+  > bot 142 had been created
+Intruction: bot 15 gives low to bot 200 and high to bot 193
+  > bot 15 had been created
+Intruction: bot 96 gives low to output 10 and high to bot 66
+  > bot 96 had been created
+Intruction: value 73 goes to bot 165
+Intruction: bot 151 gives low to bot 137 and high to bot 123
+  > bot 151 had been created
+  > bot 165 assigning 3 to bot 27 and 73 to bot 72
+  > bot 27 assigning 3 to bot 3 and 37 to bot 97
+Intruction: bot 122 gives low to bot 9 and high to bot 201
+  > bot 122 had been created
+  > bot 3 assigning 3 to bot 19 and 5 to bot 207
+  > bot 151 assigning 17 to bot 137 and 19 to bot 123
+  > bot 19 assigning 2 to bot 52 and 3 to bot 76
+  > bot 137 assigning 17 to bot 69 and 47 to bot 35
+  > bot 123 assigning 19 to bot 35 and 29 to bot 61
+  > bot 52 assigning 2 to bot 143 and 61 to bot 38
+  > bot 69 assigning 17 to bot 13 and 67 to bot 122
+  > bot 35 assigning 19 to bot 122 and 47 to bot 171
+  > bot 61 assigning 29 to bot 171 and 43 to bot 144
+  > bot 143 assigning 2 to bot 176 and 41 to bot 88
+  > bot 13 assigning 13 to bot 31 and 17 to bot 9
+  > bot 122 assigning 19 to bot 9 and 67 to bot 201
+  > bot 171 assigning 29 to bot 201 and 47 to bot 23
+  > bot 144 assigning 43 to bot 23 and 53 to bot 79
+  > bot 176 assigning 2 to bot 113 and 71 to bot 116
+  > bot 31 assigning 13 to bot 72 and 23 to bot 92
+  > bot 9 assigning 17 to bot 92 and 19 to bot 119
+  > bot 201 assigning 29 to bot 119 and 67 to bot 177
+  > bot 23 assigning 43 to bot 177 and 47 to bot 42
+  > bot 79 assigning 53 to bot 42 and 59 to bot 191
+  > bot 113 assigning 2 to bot 194 and 11 to bot 157
+  > bot 72 assigning 13 to bot 97 and 73 to bot 150
+  > bot 92 assigning 17 to bot 150 and 23 to bot 131
+  > bot 119 assigning 19 to bot 131 and 29 to bot 169
+  > bot 177 assigning 43 to bot 169 and 67 to bot 22
+  > bot 42 assigning 47 to bot 22 and 53 to bot 191
+  > bot 191 assigning 53 to bot 148 and 59 to bot 12
+  > bot 194 assigning 2 to bot 77 and 31 to bot 55
+  > bot 77 assigning 2 to output 11 and 7 to bot 49
+  > bot 97 assigning 13 to bot 207 and 37 to bot 132
+  > bot 150 assigning 17 to bot 132 and 73 to bot 99
+  > bot 169 assigning 29 to bot 204 and 43 to bot 187
+  > bot 22 assigning 47 to bot 187 and 67 to bot 148
+  > bot 148 assigning 53 to bot 37 and 67 to bot 12
+  > bot 12 assigning 59 to bot 11 and 67 to bot 10
+  > bot 132 assigning 17 to bot 1 and 37 to bot 41
+  > bot 207 assigning 5 to bot 76 and 13 to bot 1
+  > bot 76 assigning 3 to bot 38 and 5 to bot 155
+  > bot 131 assigning 19 to bot 99 and 23 to bot 204
+  > bot 38 assigning 3 to bot 88 and 61 to bot 43
+  > bot 204 assigning 23 to bot 83 and 29 to bot 54
+  > bot 1 assigning 13 to bot 155 and 17 to bot 100
+  > bot 99 assigning 19 to bot 41 and 73 to bot 83
+  > bot 88 assigning 3 to bot 116 and 41 to bot 5
+  > bot 187 assigning 43 to bot 54 and 47 to bot 37
+  > bot 37 assigning 47 to bot 44 and 53 to bot 11
+  > bot 11 assigning 53 to bot 63 and 59 to bot 10
+  > bot 83 assigning 23 to bot 18 and 73 to bot 29
+  > bot 54 assigning 29 to bot 29 and 43 to bot 44
+  > bot 116 assigning 3 to bot 157 and 71 to bot 197
+  > bot 10 assigning 59 to bot 142 and 67 to bot 163
+  > bot 155 assigning 5 to bot 43 and 13 to bot 78
+  > bot 29 assigning 29 to bot 136 and 73 to bot 73
+  > bot 41 assigning 19 to bot 100 and 37 to bot 18
+  > bot 100 assigning 17 to bot 78 and 19 to bot 186
+  > bot 44 assigning 43 to bot 73 and 47 to bot 63
+  > bot 157 assigning 3 to bot 55 and 11 to bot 185
+  > bot 43 assigning 5 to bot 5 and 61 to bot 134
+  > bot 5 assigning 5 to bot 197 and 41 to bot 8
+  > bot 73 assigning 43 to bot 47 and 73 to bot 68
+  > bot 18 assigning 23 to bot 186 and 37 to bot 136
+  > bot 136 assigning 29 to bot 202 and 37 to bot 47
+  > bot 63 assigning 47 to bot 68 and 53 to bot 142
+  > bot 55 assigning 3 to bot 49 and 31 to bot 57
+  > bot 78 assigning 13 to bot 134 and 17 to bot 33
+  > bot 197 assigning 5 to bot 185 and 71 to bot 0
+  > bot 47 assigning 37 to bot 209 and 43 to bot 86
+  > bot 68 assigning 47 to bot 86 and 73 to bot 25
+  > bot 186 assigning 19 to bot 33 and 23 to bot 202
+  > bot 202 assigning 23 to bot 105 and 29 to bot 209
+  > bot 142 assigning 53 to bot 25 and 59 to bot 163
+  > bot 163 assigning 59 to bot 71 and 67 to bot 14
+  > bot 134 assigning 13 to bot 8 and 61 to bot 141
+  > bot 33 assigning 17 to bot 141 and 19 to bot 105
+  > bot 185 assigning 5 to bot 57 and 11 to bot 139
+  > bot 8 assigning 13 to bot 0 and 41 to bot 152
+  > bot 209 assigning 29 to bot 82 and 37 to bot 172
+  > bot 86 assigning 43 to bot 172 and 47 to bot 59
+  > bot 25 assigning 53 to bot 59 and 73 to bot 71
+  > bot 105 assigning 19 to bot 175 and 23 to bot 82
+  > bot 49 assigning 3 to output 0 and 7 to bot 118  > bot 71 assigning 59 to bot 130 and 73 to bot 14
+  > bot 14 assigning 67 to bot 153 and 73 to bot 53
+  > bot 141 assigning 17 to bot 152 and 61 to bot 175
+=== bot 141 is the bot comparing [61, 17]
+bot 141 is shuting down
+  > bot 57 assigning 5 to bot 118 and 31 to bot 32
+bot 57 is shuting down
+bot 139 is shuting down
+  > bot 0 assigning 13 to bot 139 and 71 to bot 30
+bot 0 is shuting down
+  > bot 152 assigning 17 to bot 30 and 41 to bot 159
+bot 152 is shuting down
+  > bot 82 assigning 23 to bot 67 and 29 to bot 154
+bot 82 is shuting down
+  > bot 172 assigning 37 to bot 154 and 43 to bot 7
+bot 172 is shuting down
+  > bot 59 assigning 47 to bot 7 and 53 to bot 130
+bot 59 is shuting down
+  > bot 175 assigning 19 to bot 159 and 61 to bot 67
+bot 175 is shuting down
+bot 118 is shuting down
+
+bot 49 is shuting down
+bot 130 is shuting down
+bot 153 is shuting down
+bot 53 is shuting down
+bot 75 is shuting down
+bot 116 is shuting down
+bot 185 is shuting down
+bot 202 is shuting down
+bot 179 is shuting down
+bot 114 is shuting down
+bot 166 is shuting down
+bot 33 is shuting down
+bot 68 is shuting down
+bot 18 is shuting down
+bot 99 is shuting down
+bot 155 is shuting down
+bot 157 is shuting down
+bot 204 is shuting down
+bot 22 is shuting down
+bot 48 is shuting down
+bot 77 is shuting down
+bot 154 is shuting down
+bot 206 is shuting down
+bot 113 is shuting down
+bot 47 is shuting down
+bot 187 is shuting down
+bot 103 is shuting down
+bot 92 is shuting down
+bot 102 is shuting down
+bot 37 is shuting down
+bot 80 is shuting down
+bot 52 is shuting down
+bot 168 is shuting down
+bot 188 is shuting down
+bot 17 is shuting down
+bot 117 is shuting down
+bot 25 is shuting down
+bot 173 is shuting down
+bot 1 is shuting down
+bot 64 is shuting down
+bot 5 is shuting down
+bot 136 is shuting down
+bot 197 is shuting down
+bot 94 is shuting down
+bot 138 is shuting down
+bot 20 is shuting down
+bot 162 is shuting down
+bot 201 is shuting down
+bot 32 is shuting down
+bot 174 is shuting down
+bot 60 is shuting down
+bot 140 is shuting down
+bot 145 is shuting down
+bot 190 is shuting down
+bot 143 is shuting down
+bot 61 is shuting down
+bot 8 is shuting down
+bot 170 is shuting down
+bot 65 is shuting down
+bot 6 is shuting down
+bot 45 is shuting down
+bot 98 is shuting down
+bot 119 is shuting down
+bot 199 is shuting down
+bot 128 is shuting down
+bot 84 is shuting down
+bot 86 is shuting down
+bot 104 is shuting down
+bot 165 is shuting down
+bot 62 is shuting down
+bot 109 is shuting down
+bot 115 is shuting down
+bot 19 is shuting down
+bot 125 is shuting down
+bot 76 is shuting down
+bot 14 is shuting down
+bot 180 is shuting down
+bot 30 is shuting down
+bot 121 is shuting down
+bot 200 is shuting down
+bot 163 is shuting down
+bot 146 is shuting down
+bot 12 is shuting down
+bot 127 is shuting down
+bot 101 is shuting down
+bot 7 is shuting down
+bot 189 is shuting down
+bot 85 is shuting down
+bot 169 is shuting down
+bot 160 is shuting down
+bot 40 is shuting down
+bot 158 is shuting down
+bot 183 is shuting down
+bot 95 is shuting down
+bot 110 is shuting down
+bot 55 is shuting down
+bot 159 is shuting down
+bot 208 is shuting down
+bot 131 is shuting down
+bot 24 is shuting down
+bot 194 is shuting down
+bot 70 is shuting down
+bot 120 is shuting down
+bot 42 is shuting down
+bot 23 is shuting down
+bot 144 is shuting down
+bot 107 is shuting down
+bot 81 is shuting down
+bot 186 is shuting down
+bot 205 is shuting down
+bot 66 is shuting down
+bot 171 is shuting down
+bot 148 is shuting down
+bot 39 is shuting down
+bot 78 is shuting down
+bot 167 is shuting down
+bot 13 is shuting down
+bot 182 is shuting down
+bot 88 is shuting down
+bot 31 is shuting down
+bot 181 is shuting down
+bot 108 is shuting down
+bot 69 is shuting down
+bot 132 is shuting down
+bot 38 is shuting down
+bot 90 is shuting down
+bot 9 is shuting down
+bot 142 is shuting down
+bot 27 is shuting down
+bot 87 is shuting down
+bot 41 is shuting down
+bot 50 is shuting down
+bot 10 is shuting down
+bot 195 is shuting down
+bot 36 is shuting down
+bot 196 is shuting down
+bot 44 is shuting down
+bot 97 is shuting down
+bot 46 is shuting down
+bot 203 is shuting down
+bot 112 is shuting down
+bot 184 is shuting down
+bot 67 is shuting down
+bot 198 is shuting down
+bot 83 is shuting down
+bot 3 is shuting down
+bot 89 is shuting down
+bot 176 is shuting down
+bot 26 is shuting down
+bot 4 is shuting down
+bot 11 is shuting down
+bot 177 is shuting down
+bot 71 is shuting down
+bot 207 is shuting down
+bot 126 is shuting down
+bot 51 is shuting down
+bot 135 is shuting down
+bot 105 is shuting down
+bot 35 is shuting down
+bot 164 is shuting down
+bot 124 is shuting down
+bot 193 is shuting down
+bot 133 is shuting down
+bot 111 is shuting down
+bot 192 is shuting down
+bot 72 is shuting down
+bot 191 is shuting down
+bot 151 is shuting down
+bot 74 is shuting down
+bot 137 is shuting down
+bot 16 is shuting down
+bot 156 is shuting down
+bot 58 is shuting down
+bot 43 is shuting down
+bot 21 is shuting down
+bot 178 is shuting down
+bot 63 is shuting down
+bot 209 is shuting down
+bot 123 is shuting down
+bot 79 is shuting down
+bot 29 is shuting down
+bot 56 is shuting down
+bot 54 is shuting down
+bot 150 is shuting down
+bot 106 is shuting down
+bot 147 is shuting down
+bot 93 is shuting down
+bot 28 is shuting down
+bot 2 is shuting down
+bot 91 is shuting down
+bot 161 is shuting down
+bot 73 is shuting down
+bot 134 is shuting down
+bot 34 is shuting down
+bot 129 is shuting down
+bot 100 is shuting down
+bot 149 is shuting down
+bot 15 is shuting down
+bot 122 is shuting down
+bot 96 is shuting down
+===
+The result is bot 141

@@ -1,2 +1,2 @@
-## For coverage testing
-coverage
+## For hacking around
+ipython

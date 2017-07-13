@@ -2,23 +2,23 @@ MODULES = $(PWD)/_build/modules
 TOOLS = $(PWD)/_build/tools
 SRC = $(PWD)/src
 PYTHONPATH = $(MODULES)/site-packages:$(TOOLS)/site-packages
-PYTHON_VERSION = python3
+PYTHON_VERSION = python
 PYTHON := PYTHONPATH="$(PYTHONPATH)" $(PYTHON_VERSION)
 
 
 .PHONY: deps unit test coverage shell clean
 
-deps: $(MODULES) $(TOOLS) requirements.txt
+deps: $(MODULES) $(TOOLS)
 	@echo "Pulling in dependencies..."
 
-$(MODULES):
+$(MODULES): requirements.txt
 	@mkdir -p $(MODULES)
 	@pip install -I --prefix=$(MODULES) -r requirements.txt
 	@ln -s $(MODULES)/lib/python*/site-packages $(MODULES)/site-packages
 
 $(TOOLS):
 	@mkdir -p $(TOOLS)
-	@pip install -I --prefix=$(TOOLS) pytest-cov
+	@pip install -I --prefix=$(TOOLS) pytest-cov coverage
 	@ln -s $(TOOLS)/lib/python*/site-packages $(TOOLS)/site-packages
 
 clean:
