@@ -4,6 +4,7 @@ htmlcov
 coverage
 .coverage
 *.sw[pq]
+*.py[co]
 
 deps/
 doc/api/
